@@ -1,4 +1,34 @@
+
 # 🏦 Bank Transaction System
+<p align="center">
+
+  <img src="https://img.shields.io/badge/Java-17-orange?style=for-the-badge&logo=openjdk"/>
+
+  <img src="https://img.shields.io/badge/Spring%20Boot-3.x-6DB33F?style=for-the-badge&logo=springboot"/>
+
+  <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Hibernate-ORM-59666C?style=for-the-badge&logo=hibernate"/>
+
+  <img src="https://img.shields.io/badge/Swagger-OpenAPI-85EA2D?style=for-the-badge&logo=swagger"/>
+
+  <img src="https://img.shields.io/badge/Maven-Build-C71A36?style=for-the-badge&logo=apachemaven"/>
+
+  <img src="https://img.shields.io/badge/REST-API-blue?style=for-the-badge"/>
+
+</p>
+
+<p align="center">
+
+  <img src="https://img.shields.io/github/stars/vedhajanardhan/Bank-Transaction-System?style=for-the-badge"/>
+
+  <img src="https://img.shields.io/github/forks/vedhajanardhan/Bank-Transaction-System?style=for-the-badge"/>
+
+  <img src="https://img.shields.io/github/last-commit/vedhajanardhan/Bank-Transaction-System?style=for-the-badge"/>
+
+  <img src="https://img.shields.io/github/repo-size/vedhajanardhan/Bank-Transaction-System?style=for-the-badge"/>
+
+</p>
 
 <img width="1774" height="887" alt="ChatGPT Image Jul 20, 2026, 10_02_05 PM" src="https://github.com/user-attachments/assets/948c854f-ead6-4ae6-a497-4329a8bf5618" />
 
