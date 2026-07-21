@@ -46,3 +46,17 @@ The application follows a layered architecture to separate business logic, data 
 
 <img width="1536" height="1024" alt="ChatGPT Image Jul 20, 2026, 10_05_25 PM" src="https://github.com/user-attachments/assets/8b961f49-a82c-48d4-85bb-901152ff0afa" />
 
+## 🗄️ Database Design
+
+The database consists of three main entities:
+
+- Customer
+- Account
+- Transaction
+
+The relationships are:
+
+- One Customer can have multiple Accounts.
+- One Account can have multiple Transactions.
+<img width="1281" height="344" alt="Untitled" src="https://github.com/user-attachments/assets/c8010c58-9f46-40b1-8542-06a7cb6b1d1d" />
+
