@@ -101,3 +101,17 @@ The relationships are:
 | POST   | `/api/accounts/transfer`        | Transfer money between accounts |
 | GET    | `/api/accounts/{id}`            | Get account details             |
 | GET    | `/api/transactions/{accountId}` | View transaction history        |
+
+## 📸 Screenshots
+
+### Swagger UI
+
+<p align="center">
+  <img src="screenshots/swagger-home.png" width="900">
+</p>
+
+### Create Account
+
+<p align="center">
+  <img src="screenshots/create-account.png" width="900">
+</p>
