@@ -1,5 +1,8 @@
 # 🏦 Bank Transaction System
 
+<img width="1774" height="887" alt="ChatGPT Image Jul 20, 2026, 10_02_05 PM" src="https://github.com/user-attachments/assets/948c854f-ead6-4ae6-a497-4329a8bf5618" />
+
+
 ## 📖 Overview
 
 -The Bank Transaction System is a RESTful backend application developed using Java and Spring Boot. It provides secure banking operations such as customer registration, account creation, deposits, withdrawals, fund transfers, balance inquiries, and transaction history.
@@ -36,3 +39,10 @@
 | Git | Version Control |
 | GitHub | Repository Hosting |
 | Postman | API Testing |
+
+## 🏗️ Architecture
+
+The application follows a layered architecture to separate business logic, data access, and request handling.
+
+<img width="1536" height="1024" alt="ChatGPT Image Jul 20, 2026, 10_05_25 PM" src="https://github.com/user-attachments/assets/8b961f49-a82c-48d4-85bb-901152ff0afa" />
+
