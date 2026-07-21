@@ -90,6 +90,8 @@ The relationships are:
 - One Account can have multiple Transactions.
 <img width="1281" height="344" alt="Untitled" src="https://github.com/user-attachments/assets/c8010c58-9f46-40b1-8542-06a7cb6b1d1d" />
 
+# 📡 API Endpoints
+
 | Method | Endpoint                        | Description                     |
 | ------ | ------------------------------- | ------------------------------- |
 | POST   | `/api/customers/register`       | Register a new customer         |
